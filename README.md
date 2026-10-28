@@ -1,10 +1,10 @@
-# DeskBot 🤖
+# DeskBot 
 
 DeskBot is an autonomous/remotely controlled desktop companion robot built around the **Raspberry Pi 4**. It features two-way audio communication (listening and speaking), a two-wheel motorized drivetrain, inertial sensing, and custom 3D-printed hardware enclosures designed in Fusion 360.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Audio Interaction:** Speaks via an amplified speaker and listens through a dedicated microphone.
 *   **Locomotion:** Two-motor drivetrain powered by a dedicated motor driver module.
@@ -15,10 +15,10 @@ DeskBot is an autonomous/remotely controlled desktop companion robot built aroun
 
 ---
 
-## 🛠️ Hardware Architecture
+##  Hardware Architecture
 
 ### Core Components
-*   **Compute:** Raspberry Pi 4 (Model B)
+*   **Compute:** Raspberry Pi 4
 *   **Audio Output:** Microphone & Speaker connected via an Audio Amplifier Module
 *   **Locomotion:** 2x DC Motors managed by a Motor Driver Module (e.g., L298N / L293D / TB6612FNG)
 *   **Telemetry & Control:** MPU-4050 IMU Sensor + RF/RC Transmitter & Receiver
@@ -29,21 +29,6 @@ DeskBot is an autonomous/remotely controlled desktop companion robot built aroun
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── hardware/
-│   └── 3d-models/
-│       └── deskbot_chassis.f3d    # Custom Fusion 360 project file
-├── src/
-│   ├── audio/                     # Speech-to-text and text-to-speech scripts
-│   ├── movement/                  # Motor control and IMU data processing
-│   └── main.py                    # Core robot orchestration script
-├── config.env.example             # Template for API credentials
-└── README.md
-```
-
----
 
 ## ⚙️ Setup & Installation
 
@@ -54,41 +39,10 @@ DeskBot is an autonomous/remotely controlled desktop companion robot built aroun
 4. Hook up the **Microphone** and connect the **Amplifier + Speaker** setup to the audio jack or a dedicated USB audio adapter.
 5. Connect your **Receiver** channels to the designated GPIO digital input pins.
 
-### 2. Software Configuration
-Clone this repository to your Raspberry Pi:
-```bash
-git clone https://github.com/yourusername/deskbot.git
-cd deskbot
-```
 
-Install the required system dependencies and Python packages:
-```bash
-sudo apt-get update
-sudo apt-get install python3-pip portaudio19-dev
-pip3 install -r requirements.txt
-```
 
-### 3. API Key Setup
-Duplicate the example environment file and add your custom API key:
-```bash
-cp config.env.example .env
-```
-Open `.env` and fill in your credentials:
-```env
-API_KEY=your_secret_api_key_here
-```
-
----
-
-## 🎮 Usage
-
-To boot up DeskBot and start the main loop, run:
-```bash
-python3 src/main.py
-```
-
----
 
 ## 📐 3D Modeling
 
-The physical chassis, brackets, and mounts were built using **Autodesk Fusion 360**. You can find the fully editable design file under `hardware/3d-models/deskbot_chassis.f3d`. Import this file directly into Fusion 360 to modify tolerances, add component mounts, or export `.STL`/`.3MF` files for 3D printing.
+The physical chassis, brackets, and mounts were built using **Autodesk Fusion 360**. You can find the fully editable design file under `\cad`. fusion 360 to modify tolerances, add component mounts, or export `.f3d` `.STL` files for 3D printing.
+ yepiee stuff is done i  have tea  ppl can  dm  on @tejas67
