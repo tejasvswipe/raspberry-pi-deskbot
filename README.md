@@ -60,6 +60,7 @@ DeskBot is an aklmotely controlled desktop companion robot built around the **Ra
 | **screen** | hardware | object to  see :/ |1| | $25
 | **Total Estimated Cost** | | | | **$192** |
 
+<img width="360" height="228" alt="image" src="https://github.com/user-attachments/assets/f3f2ac28-d288-4c37-ac52-26118254d712" />
 
 **Autodesk Fusion 360**
 . You can find the fully editable design file under `\cad`. fusion 360 to modify tolerances, add component mounts, or export `.f3d` `.STL` files for 3D printing.  
