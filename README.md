@@ -53,7 +53,9 @@ it is bot that can  do  stuff while moving on  the desk  its so  funny  to  move
 | **Jumper Wires & Fasteners** | Hardware essentials & wiring | 1 | $5.00 | $5.00 |
 | **screen** | hardware | object to  see :/ |1| | $25
 | **Total Estimated Cost** | | | | **$192** |
-### bom cart screen  are also in  the root
+### BOM is also in  the root
+<img width="580" height="318" alt="image" src="https://github.com/user-attachments/assets/147ebfe0-b5cd-4d23-b972-c716c8b808e9" />
+
 <img width="360" height="228" alt="image" src="https://github.com/user-attachments/assets/f3f2ac28-d288-4c37-ac52-26118254d712" />
 
 **Autodesk Fusion 360**
