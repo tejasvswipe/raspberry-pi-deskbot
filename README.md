@@ -56,10 +56,9 @@ it is bot that can  do  stuff while moving on  the desk  its so  funny  to  move
 ### BOM is also in  the root
 <img width="580" height="318" alt="image" src="https://github.com/user-attachments/assets/147ebfe0-b5cd-4d23-b972-c716c8b808e9" />
 
-<img width="360" height="228" alt="image" src="https://github.com/user-attachments/assets/f3f2ac28-d288-4c37-ac52-26118254d712" />
 
 **Autodesk Fusion 360**
-. You can find the fully editable design file under `\cad`. fusion 360 to modify tolerances, add component mounts, or export `.f3d` `.STL` files for 3D printing.  
+. fully editable design file under `\cad`. fusion 360 t `.f3d` `.STL` files for 3D printing.  
  yepiee stuff is done i  have tea  ppl can  dm  on @tejas67
 <img width="61" height="38" alt="Screenshot 2026-10-28 201140" src="https://github.com/user-attachments/assets/987ab204-e09f-43f0-afeb-6d07699d44ed" />
 <img width="367" height="331" alt="Screenshot 2026-10-28 183300" src="https://github.com/user-attachments/assets/2a04ab67-a5dd-4ecc-954a-15122dc822ea" /> <img width="308" height="278" alt="Screenshot 2026-10-28 185722" src="https://github.com/user-attachments/assets/635e830a-4bd2-43db-a3f4-dff598ea4528" />
